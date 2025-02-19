@@ -6,4 +6,4 @@ On doit spécifier dans le fichier.xml :
 
 
 Annotation GET
-C'est pour annote les methods dans les controlleurs
+C'est pour annote les methods dans les controlleurss
